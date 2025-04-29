@@ -13,6 +13,7 @@
     "isBoard": false,
     "id": "grove1602lcd",
     "platform": ["win", "mac", "web"],
+    "version": "1.0.0",
     "asset": {
         "arduinoC": {
             "dir": "arduinoC/",
