@@ -1,0 +1,24 @@
+{
+    "name": {
+        "zh-cn": "Grove 1602 LCD RGB",
+        "en": "Grove 1602 LCD RGB"
+    },
+    "description": {
+        "zh-cn": "Grove I2C 1602 LCD with RGB Backlight",
+        "en": "Grove I2C 1602 LCD with RGB Backlight"
+    },
+    "author": "IkarosCh",
+    "email": "ikarosx3499@gmail.com",
+    "license": "MIT",
+    "isBoard": false,
+    "id": "grove1602lcd",
+    "platform": ["win", "mac", "web"],
+    "asset": {
+        "arduinoC": {
+            "dir": "arduinoC/",
+            "version": "1.0.0",
+            "board": ["arduino", "leonardo", "microbit", "esp32"],
+            "main": "main.ts"
+        }
+    }
+}
