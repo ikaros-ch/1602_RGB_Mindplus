@@ -3,4 +3,8 @@
         "menu": [["Default I2C (A4/A5)", "0"]],
         "default_initialize": "0"
     }
+        "LINE": {
+        "menu": [["Row 0", "0"], ["Row 1", "1"]],
+        "default_displayText": "0"
+    }
 }
