@@ -1,0 +1,6 @@
+{
+    "LCD_I2C": {
+        "menu": [["Default I2C (A4/A5)", "0"]],
+        "default_initialize": "0"
+    }
+}
