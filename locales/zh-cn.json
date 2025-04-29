@@ -1,0 +1,6 @@
+{
+    "grove1602lcd.initLCD|block": "初始化LCD (16x2)",
+    "grove1602lcd.clearScreen|block": "清空屏幕",
+    "grove1602lcd.setRGB|block": "设置背光颜色 R:%r G:%g B:%b",
+    "grove1602lcd.displayText|block": "显示文字: %text 列 %col 行 %row"
+}
